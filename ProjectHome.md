@@ -1,0 +1,1 @@
+A simple PHP script and several dictionaries contained within a Mysql database make it possible to identify the language used in a text or website. If necessary it can be easily adapted to other programming languages or database systems, and dictionaries in other languages can also be added.
